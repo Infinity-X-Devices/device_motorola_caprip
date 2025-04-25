@@ -27,6 +27,9 @@ ODM_MANIFEST_FC_FILES := $(DEVICE_PATH)/sku/manifest_fc.xml
 ODM_MANIFEST_N_FILES := $(DEVICE_PATH)/sku/manifest_n.xml
 ODM_MANIFEST_NC_FILES := $(DEVICE_PATH)/sku/manifest_nc.xml
 
+# Init
+TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):libinit_caprip
+
 # Kernel
 TARGET_KERNEL_CONFIG += vendor/ext_config/caprip-default.config
 
