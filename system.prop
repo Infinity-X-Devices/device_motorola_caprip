@@ -1,0 +1,6 @@
+# Project Infinity X
+ro.product.marketname=Moto G30
+ro.infinity.soc=Snapdragon® 662
+ro.infinity.battery=5000 mAh
+ro.infinity.display=720 x 1600, 90 Hz
+ro.infinity.camera=64MP (Primary) + 8MP (Ultrawide) + 2MP (Depth) + 2MP (Macro) / 13MP (Front Facing)
